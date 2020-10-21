@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Combinear/arrow-down-android-png-favpng-ELJmTFCcH7sH4syYBY7Ne9nte.jpg</file>
+        <file>Combinear/arrow-down.png</file>
+        <file>Combinear/arrow-up.png</file>
+        <file>Combinear/Combinear.png</file>
+        <file>Combinear/Combinear.qss</file>
+        <file>Combinear/Combinear.rar</file>
+        <file>Combinear/down.png</file>
+        <file>Combinear/License.txt</file>
+        <file>Combinear/up.png</file>
+        <file>icons/Roundicons-100-Free-Solid-Science.ico</file>
+        <file>drill_sizes.csv</file>
+    </qresource>
+</RCC>
